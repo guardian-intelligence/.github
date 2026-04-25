@@ -11,4 +11,3 @@ We build self-hosted infrastructure for operating software, agents, and automati
 ## Public Work
 
 - [`verself`](https://github.com/guardian-intelligence/verself): self-hosted bare-metal PaaS with Forgejo, Firecracker CI, ZFS, ClickHouse observability, TigerBeetle billing, Zitadel auth, and a product console.
-- [`apm2`](https://github.com/guardian-intelligence/apm2): Rust agent process manager and behavior registry for daemonized local automation.
